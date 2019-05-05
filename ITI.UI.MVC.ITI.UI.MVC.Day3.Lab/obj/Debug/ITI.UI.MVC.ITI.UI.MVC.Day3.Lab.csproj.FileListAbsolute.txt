@@ -1,0 +1,231 @@
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\csc.exe
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Collections.Immutable.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\vbc.exe
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe.config
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll.config
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.Web.Infrastructure.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\WebGrease.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.pdb
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.xml
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csprojResolveAssemblyReference.cache
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.Migrations.intial.resources
+c:\users\iti\documents\visual studio 2015\Projects\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csproj.GenerateResource.Cache
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\csc.exe
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Collections.Immutable.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Reflection.Metadata.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\vbc.exe
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe.config
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll.config
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.Web.Infrastructure.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\WebGrease.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.pdb
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.xml
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csprojResolveAssemblyReference.cache
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.Migrations.intial.resources
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csproj.GenerateResource.Cache
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+J:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.Migrations.addnewemp.resources
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\csc.exe
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Collections.Immutable.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Reflection.Metadata.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\vbc.exe
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe.config
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll.config
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.Web.Infrastructure.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\WebGrease.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.pdb
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.xml
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csprojResolveAssemblyReference.cache
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.Day3.Lab.Migrations.initial.resources
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csproj.GenerateResource.Cache
+I:\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.Day3.Lab.Migrations.addEmployeeEntity.resources
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\csc.exe
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Collections.Immutable.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Reflection.Metadata.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\vbc.exe
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe.config
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll.config
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.Web.Infrastructure.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\WebGrease.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.pdb
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.xml
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csprojAssemblyReference.cache
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csproj.CoreCompileInputs.cache
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csproj.CopyComplete
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+E:\7ASsNaaa\ITI.UI.MVC.Day3\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\csc.exe
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\vbc.exe
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll.config
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\WebGrease.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\EntityFramework.SqlServer.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Helpers.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Mvc.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Optimization.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.Razor.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Antlr3.Runtime.pdb
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\bin\Newtonsoft.Json.xml
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csprojResolveAssemblyReference.cache
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.csproj.CoreCompileInputs.cache
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.dll
+C:\Users\Nourhan\Downloads\Hasnaa mvc\simple-mvc-project-master\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab\obj\Debug\ITI.UI.MVC.ITI.UI.MVC.Day3.Lab.pdb
